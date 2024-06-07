@@ -26,8 +26,8 @@ This script extracts all URLs, filters JavaScript URLs, and validates them from 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/pythajs.git
-    cd url-extractor-validator
+    git clone https://github.com/shivangmauryaa/pythajs.git
+    cd pythajs
     ```
 
 2. Install the required libraries:
