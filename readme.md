@@ -26,7 +26,7 @@ This script extracts all URLs, filters JavaScript URLs, and validates them from 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/url-extractor-validator.git
+    git clone https://github.com/yourusername/pythajs.git
     cd url-extractor-validator
     ```
 
@@ -76,4 +76,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact me at your-email@example.com.
+For any questions or suggestions, feel free to open an issue or contact me at shivangmauryaa@gmail.com.
