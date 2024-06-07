@@ -1,4 +1,4 @@
-# URL Extractor and Validator
+# PYTHAJS (URL Extractor and Validator)
 
 This script extracts all URLs, filters JavaScript URLs, and validates them from the Wayback Machine (web.archive.org) for a given domain. The valid URLs are then saved to a text file.
 
